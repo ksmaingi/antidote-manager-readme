@@ -15,7 +15,7 @@ I place a strong emphasis on the following values and try to infuse all that I d
 - I don’t expect you to respond to everything in real-time, but I do expect you to close the loop on everything we open. If it’s on my plate, I will do the same, but try to take things off my plate and into your own system that you can create transparency around. 
 - *I can get frustrated when I have to ask about something twice.*
 - Context is critical to sharing your work. I am always interested in the reason why you believe what you believe. All of us have a method by which we take in information and output a decision or position. Share your logic, particularly as we are building trust; whether you’re basing your position on precedent, other industries, or from first principles. I don’t mind over-communication, it’s critically important we learn how we think, so do share as much as you can.
-- 
+
 ### Reporting
 - Create a regular, systematic, clearly framed process by which you share your progress against plan. Collaborate with me on this. Make it as quantitative as possible. I may need to communicate this progress to others.
 - This reporting is separate to 1 to 1 meetings (see below)
